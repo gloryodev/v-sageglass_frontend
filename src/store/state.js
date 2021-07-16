@@ -1,0 +1,15 @@
+export default {
+    expandFlag: false, 
+    markerClickFlag: false, 
+    projects: {}, 
+    mapData: [], 
+    connectedData: [], 
+    nonConnectedData: [], 
+    upcomingData: [], 
+    location: {}, 
+    overlay: {}, 
+    health: {}, 
+    tints: [], 
+    config: {}, 
+    currentProject: {}, 
+}
